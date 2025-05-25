@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Studio NestCraft",
+    "rating": 4.5,
+    "projects": 57,
+    "experience": 5,
+    "price": 57,
+    "isShortlisted": false,
+    "description": "A creative boutique based in Mumbai, run by a team of 5 designers passionate about modern and functional spaces.",
+    "contact1": "+91-9876543210",
+    "contact2": "+91-9123456780"
+  },
+  {
+    "id": 2,
+    "title": "Urban Curve Interiors",
+    "rating": 4.0,
+    "projects": 42,
+    "experience": 3,
+    "price": 45,
+    "isShortlisted": false,
+    "description": "Young and dynamic 3-member team from Delhi, known for bohemian and vibrant interior concepts.",
+    "contact1": "+91-9988776655",
+    "contact2": "+91-9090909090"
+  },
+  {
+    "id": 3,
+    "title": "Design District Co.",
+    "rating": 4.5,
+    "projects": 68,
+    "experience": 7,
+    "price": 70,
+    "isShortlisted": false,
+    "description": "Established design house in Bangalore with a team of 8 experts delivering luxury interiors for over 7 years.",
+    "contact1": "+91-8888888888",
+    "contact2": "+91-7777777777"
+  },
+  {
+    "id": 4,
+    "title": "Craft & Corner",
+    "rating": 4.0,
+    "projects": 21,
+    "experience": 2,
+    "price": 35,
+    "isShortlisted": false,
+    "description": "Cozy and colorful studio from Ahmedabad, led by 2 designers specializing in traditional and fusion interiors.",
+    "contact1": "+91-6666666666",
+    "contact2": "+91-9999999999"
+  },
+  {
+    "id": 5,
+    "title": "Interior Spark Studio",
+    "rating": 4.0,
+    "projects": 50,
+    "experience":6,
+    "price": 55,
+    "isShortlisted": false,
+    "description": "Full-service interior studio from Chennai with 6 designers known for clean industrial aesthetics.",
+    "contact1": "+91-7878787878",
+    "contact2": "+91-8989898989"
+  },
+  {
+    "id": 6,
+    "title": "The Deco Palette",
+    "rating": 4.5,
+    "projects": 63,
+    "experience": 4,
+    "price": 60,
+    "isShortlisted": false,
+    "description": "Scandinavian and minimalist design lovers from Hyderabad — a team of 4 bringing calm and balance into homes.",
+    "contact1": "+91-9091919191",
+    "contact2": "+91-9191919191"
+  },
+  {
+    "id": 7,
+    "title": "Minimal Mind Interiors",
+    "rating": 3.5,
+    "projects": 33,
+    "experience": 5,
+    "price": 40,
+    "isShortlisted": false,
+    "description": "Driven by minimalism and harmony, this Pune-based duo creates serene living spaces with thoughtful details.",
+    "contact1": "+91-9797979797",
+    "contact2": "+91-9696969696"
+  },
+  {
+    "id": 8,
+    "title": "Royal Hue Designers",
+    "rating": 4.0,
+    "projects": 54,
+    "experience": 6,
+    "price": 58,
+    "isShortlisted": false,
+    "description": "A strong team of 5 designers from Kolkata, infusing elegance and vibrant palettes into traditional homes.",
+    "contact1": "+91-9494949494",
+    "contact2": "+91-9393939393"
+  },
+  {
+    "id": 9,
+    "title": "Heritage Vibe Spaces",
+    "rating": 4.5,
+    "projects": 75,
+    "experience": 8,
+    "price": 65,
+    "isShortlisted": false,
+    "description": "Experts in heritage and Rajasthani design, based in Jaipur with over 8 years of crafting culture-rich interiors.",
+    "contact1": "+91-9292929292",
+    "contact2": "+91-9190909090"
+  },
+  {
+    "id": 10,
+    "title": "Japandi Living Studio",
+    "rating": 4.0,
+    "projects": 39,
+    "experience": 3,
+    "price": 42,
+    "isShortlisted": false,
+    "description": "A calm and modern Coimbatore studio blending Japanese and Scandinavian styles, run by a small team of 3.",
+    "contact1": "+91-8888999988",
+    "contact2": "+91-8777888899"
+  }
+]
+
